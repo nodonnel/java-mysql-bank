@@ -1,0 +1,39 @@
+/* 
+    Created on : Apr 20, 2019, 8:11:21 AM
+    Author     : Nathanael O'Donnell
+*/
+
+.root {
+    -fx-background: rgb(214, 229, 255);
+    -fx-font-size: 14px;
+    -fx-font-family: "Tahoma";
+}
+
+#italic-label {
+    -fx-background: rgb(214, 229, 255);
+    -fx-font-size: 14px;
+    -fx-font-family: "Tahoma";
+}
+
+#main-title-label {
+    -fx-font-family: "Arial";
+    -fx-font-size: 36px;
+    -fx-text-fill: rgba(255,0,102,0.8);
+    -fx-stroke-width: 1;    
+}
+
+#title-label {
+    -fx-font-family: "Arial";
+    -fx-font-size: 24px;
+    -fx-stroke: black;
+    -fx-stroke-width: 1;    
+}
+
+#heading-label {
+    -fx-font-family: "Arial";
+    -fx-font-size: 16px;
+    -fx-font-weight: bold;
+    -fx-fill: linear-gradient(from 0% 0% to 100% 200%, repeat, aqua 0%, red 50%);
+    -fx-stroke: black;
+    -fx-stroke-width: 1;
+}
